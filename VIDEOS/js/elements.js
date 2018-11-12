@@ -5,7 +5,7 @@ v1.className = "gallery";
 v2.innerHTML = "CUTE PINAY QUICKY SEX";
 v2.className = "desc";
 var a = document.createElement("a");
-a.setAttribute("href", "vid1.html");
+a.setAttribute("href", "http://festyy.com/wXTIgb");
 
 var img = document.createElement("img");
 img.setAttribute('src', "https://img-egc.xnxx-cdn.com/videos/thumbslll/e2/e1/b7/e2e1b722b32ed5bd0a044d7e2a54c71d/e2e1b722b32ed5bd0a044d7e2a54c71d.27.jpg");
